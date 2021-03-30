@@ -71,7 +71,9 @@ The use of `devices` or `exclude` is recommended when using `accesspoints` to av
 List of models that are known to use port 80:
 
 - Nighthawk X4S - AC2600 (R7800)
+- NETGEAR Nighthawk X10 AD7200 (R9000)
 - Orbi
 - XR500
+
 
 See the [device tracker integration page](/integrations/device_tracker/) for instructions how to configure the people to be tracked.
